@@ -1,0 +1,218 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+body{
+	background: black;
+}
+.ili{
+	width: 800px;
+	height: 30px;
+}
+.televizor{
+	margin-left: 700px;
+}
+.televizor h2{
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+	margin-left: -600px;
+	margin-top: -400px;
+}
+.televizor h3{
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+	margin-left: -600px;
+	margin-top: 0px;
+}
+.televizor h4{
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: -600px;
+	margin-top: 0px;
+}
+.logo{
+	width: 200px;
+	height: 160px;
+	margin-top:-50px;
+	position: absolute;
+	
+}
+#po{
+	width: 300px;
+	height: 53px;
+	position: absolute;
+	background: red;
+	margin-left: -5px;
+	margin-top: px;
+}
+#po h6{
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: -300px;
+	margin-top: -3px;
+}
+#tir{
+	width:500px ;
+	height: 50px;
+	margin-left: -330px;
+}
+.uz{
+	position: absolute;
+	width: 100px;
+	
+	height: 30px;
+	margin-left:1140px;
+	margin-top:25px;
+	z-index: 9999;
+}
+.center h1{
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+	margin-left: -80px;
+	width: 850px;
+	text-align: center;
+}
+.center h2{
+	color: white;
+	font-size: 40px;
+	margin-left: -80px;
+	font-weight: bold;
+	width: 850px;
+	margin-top: 10px;
+	text-align: center;
+}
+.center h5{
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+		margin-left: -80px;
+	width: 850px;
+	margin-top: 10px;
+	text-align: center;
+}
+.center h6{
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+		margin-left: -80px;
+	width: 850px;
+	margin-top: 10px;
+	text-align: center;
+}
+.wrapper{
+	background: url(bg.jpg) no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.navbar{
+	height: 665spx;
+	width: 100%;
+	background: rgba(1, 1, 1, 1.6);
+
+}
+.navbar ul{
+	float: right;
+	margin-right: 20px;
+
+}
+.navbar ul li{
+	list-style: none;
+	margin: 0 8px;
+	display: inline-block;
+	line-height: 80px;
+
+}
+.navbar ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	padding: 6px 13px;
+	font-family: 'Roboto', sans-serif;
+	transition: .4s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+	background: red;
+	border-radius: 2px;
+	/*transition: .4s;*/
+}
+.wrapper .center{
+	position: absolute;
+	top: 50%;
+	left: 55%;
+	transform: translate(-50%, -50%);
+	font-family: sans-serif;
+}
+.telefon{
+	margin-top: 100px;
+}
+.telefon h2{
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+	margin-left: 800px;
+	margin-top: -370px;
+}
+.telefon  h3{
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+	margin-left: 800px;
+	margin-top: 0px;
+}
+.telefon  h4{
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: 800px;
+	margin-top: 0px;
+}
+.ekran{
+	margin-left: 700px;
+	margin-top: 150px;
+}
+.ekran  h2{
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	margin-left: -600px;
+	margin-top: -400px;
+}
+.ekran  h4{
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: -600px;
+	margin-top: 0px;
+}
+.kids{
+	margin-top:200px ;
+
+}
+.kids  h2{
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	margin-left: 800px;
+	margin-top: -370px;
+}
+.kids h3{
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	margin-left: 800px;
+	margin-top: 0px;
+}
+.kids  h4{
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: 800px;
+	margin-top: 0px;
+}
